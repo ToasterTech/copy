@@ -2,18 +2,17 @@
 
 ## Toaster Tech
 * FIRST Robotics Competition Team 5332
-* Spreading technology like butter on toast
+* Motto: Spreading technology like butter on toast
 * Open invite team
 * Located in Atlanta, Georgia
 * Founded in 2013 [ed. note: first comp season may be a more useful thing to put here?]
-* 501(c)(3) non-profit robotics team
+* 501(c)(3) non-profit
 * Received a Rookie Grant in 2014 which has a residual through 2016
-* We are committed to giving students who would otherwise not have an opportunity to participate in FRC the chance to do so.
-* Parents play an important role in supervision and support
+* Committed to giving students who would otherwise not have an opportunity to participate in FRC the chance to do so
 * Mentored by Georgia Tech RoboJackets, which allows us to interact with their other teams and use their machine shop
 * Recipients of multiple grants including the WIT (Women in Technology) Grant
 * Hosted by LEAD (Learners and Educators of Atlanta and Decatur)
-* Born out of a collaboration of the Georgia Tech RoboJackets and LEAD for students who might not otherwise have access to a robotics team
+* Born out of a collaboration of the Georgia Tech RoboJackets and LEAD
 * Regular meeting location: Georgia Tech Student Competition Center, 575 14th Street
 * Meet 3-4 times a week
 * We also mentor an FLL Team, Noodle, for younger students to enter the world of FIRST
@@ -25,30 +24,29 @@
 		* General team support.
 
 ## FIRST Robotics Competition
-
-* Every year students build a robot to compete with and against other teams
-* This international competition is comprised of design and building challenges
-* Students gain important skills in teamwork, strategy, science, engineering, and business
 * FIRST (For Inspiration and Recognition of Science and Technology) is an international robotics competition league for youth of any age
 	* FRC (FIRST Robotics Competition) and FTC (FIRST Tech Challenge) for high school students
 	* FLL (FIRST Lego League) and Jr. FLL for elementary and middle school students
-* FIRST is dedicated to spreading the word about STEM (Science, Technology, Engineering and Math)
+* Every year students build a robot to compete with and against other teams
+* This international competition is comprised of design and building challenges
+* Students gain important skills in teamwork, strategy, science, engineering, and business
+* Dedicated to spreading the word about STEM (Science, Technology, Engineering and Math)
 * Competitive but fun and friendly environment
-* Gives participants a glimpse into the practical world by offering them a chance to learn  real world skills
+* Gives participants a glimpse into the practical world by offering them a chance to learn real world skills
 	* Engineering
 	* Marketing
 	* Leadership
 	* Relationship goals [ed. note: #relationshipgoals...seriously though this needs to be more specific]
 * Teams have to raise funds, recruit and lead themselves with minimal coach and mentor intervention
-* Participants learn valuable real world skills
 
 ## The Team
 * Comprised of students 13 to 18 years of age from diverse backgrounds
+* Small team with only twelve members
 * Students from all over the Greater Atlanta Area can join
 * Most of the team is home-schooled
 * Other members are enrolled at public and private schools
 * We aim to be inclusive on the field and off
-* In particular we are looking for students with any of the following skills:
+* In particular we are looking for students with any of the following skills or interests:
 	* Mechanics
 	* Design
 	* Programming
@@ -58,30 +56,21 @@
 	* Web design and development
 	* Team support [ed. note: should this be more detailed?]
 * We'll teach you everything you need to know
-* We have students from schools all over the metro-Atlanta area
-	* Georgia State University dual enrolled
-	* Decatur High School
-	* The New School
-	* Traditional home-school
-	* MAS students
-* Small team with only twelve members
 
 ## Goals
 * Become financially self-sustaining
 * Build a competitive robot
 * Expand outreach efforts promoting STEM (science, technology, engineering, and math) in the Greater Atlanta area
 * Compete in the FIRST Championships in Saint Louis
-* Compete in two regional events
 * Impact more students
 * Grow our team
 * Become a positive force in our community
-* Actively pursue private and corporate sponsorship
 
 ## Sponsorship
-* As a home school-based organization, we depend on funding from sponsors as well as grants and fundraising [ed. note: fundraising seems redundant]
+* As a home school-based organization, we depend on funding from sponsors as well as grants
 * On average:
 	* Parts cost around $4,000 per year
-	* Event registration is around $3,500 x 3 events per year
+	* Event registration is around $3,500 x 2 to 3 events per year
 * Additional costs include food, transportation, and tooling
 * To sponsor us:
 	* Email leadfrc@googlegroups.com [ed. note: I would recommend an @toastertech.org email that goes to a parent who checks email frequently and can manage such communications]
@@ -91,7 +80,7 @@
 * **Season Kickoff:** Ferst Center for the Performing Arts at Georgia Tech, January 9th
 * **Columbus Qualifier:** Columbus Civic Center, March 10th-12th
 * **Kennesaw Qualifier:** Convocation Center at Kennesaw State University, April 8th-10th
-* **[If Qualify] Peachtree State Championship:** Stegeman Coliseum at University of Georgia, April 14th-17th
+* **[If Qualified] Peachtree State Championship:** Stegeman Coliseum at University of Georgia, April 14th-17th
 
 ## Contact Information
 [ed. note: Who's the PR person?]
