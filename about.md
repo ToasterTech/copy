@@ -88,13 +88,10 @@
 	* Call (404) 312-5506
 
 ## Important Dates
-**Season Kickoff:** Ferst Center for the Performing Arts at Georgia Tech, January 9th
-
-**Columbus Qualifier:** Columbus Civic Center, March 10th-12th
-
-**Kennesaw Qualifier:** Convocation Center at Kennesaw State University, April 8th-10th
-
-**[If Qualify] Peachtree State Championship:** Stegeman Coliseum at University of Georgia, April 14th-17th
+* **Season Kickoff:** Ferst Center for the Performing Arts at Georgia Tech, January 9th
+* **Columbus Qualifier:** Columbus Civic Center, March 10th-12th
+* **Kennesaw Qualifier:** Convocation Center at Kennesaw State University, April 8th-10th
+* **[If Qualify] Peachtree State Championship:** Stegeman Coliseum at University of Georgia, April 14th-17th
 
 ## Contact Information
 [ed. note: Who's the PR person?]
