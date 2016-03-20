@@ -10,11 +10,13 @@
 * Received a Rookie Grant in 2014 which has a residual through 2016
 * We are committed to giving students who would otherwise not have an opportunity to participate in FRC the chance to do so.
 * Parents play an important role in supervision and support
-* Sponsored by Georgia Tech RoboJackets among others
+* Mentored by Georgia Tech RoboJackets, which allows us to interact with their other teams and use their machine shop
+* Recipients of multiple grants including the WIT (Women in Technology) Grant
 * Hosted by LEAD (Learners and Educators of Atlanta and Decatur)
 * Born out of a collaboration of the Georgia Tech RoboJackets and LEAD for students who might not otherwise have access to a robotics team
 * Regular meeting location: Georgia Tech Student Competition Center, 575 14th Street
 * Meet 3-4 times a week
+* We also mentor an FLL Team, Noodle, for younger students to enter the world of FIRST
 * At least one parent will be required to attend each meeting
 	* These are divided up and the attending parent will provide a meal for the students and mentors
 	* In addition our parents support the team in a variety of ways
@@ -26,7 +28,19 @@
 
 * Every year students build a robot to compete with and against other teams
 * This international competition is comprised of design and building challenges
-* Students gain important skills in teamwork, strategy, science, engineering, and business.
+* Students gain important skills in teamwork, strategy, science, engineering, and business
+* FIRST (For Inspiration and Recognition of Science and Technology) is an international robotics competition league for youth of any age
+	* FRC (FIRST Robotics Competition) and FTC (FIRST Tech Challenge) for high school students
+	* FLL (FIRST Lego League) and Jr. FLL for elementary and middle school students
+* FIRST is dedicated to spreading the word about STEM (Science, Technology, Engineering and Math)
+* Competitive but fun and friendly environment
+* Gives participants a glimpse into the practical world by offering them a chance to learn  real world skills
+	* Engineering
+	* Marketing
+	* Leadership
+	* Relationship goals [ed. note: #relationshipgoals...seriously though this needs to be more specific]
+* Teams have to raise funds, recruit and lead themselves with minimal coach and mentor intervention
+* Participants learn valuable real world skills
 
 ## The Team
 * Comprised of students 13 to 18 years of age from diverse backgrounds
@@ -44,6 +58,13 @@
 	* Web design and development
 	* Team support [ed. note: should this be more detailed?]
 * We'll teach you everything you need to know
+* We have students from schools all over the metro-Atlanta area
+	* Georgia State University dual enrolled
+	* Decatur High School
+	* The New School
+	* Traditional home-school
+	* MAS students
+* Small team with only twelve members
 
 ## Goals
 * Become financially self-sustaining
